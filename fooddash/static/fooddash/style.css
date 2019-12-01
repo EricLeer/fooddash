@@ -1,0 +1,45 @@
+h1 {
+  color: green;
+}
+
+.add-recipe {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.recipe-img {
+  margin: 5px;
+  width: 128px;
+  height: 128px;
+  border-radius: 15px;
+}
+
+.recipe_row {
+  float: none;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 700px;
+}
+
+.title_row {
+  float: none;
+  margin: 0 auto;
+}
+
+.recipe_titel {
+  margin: 10px;
+  font-size: 20px;
+}
+
+body {
+  background-color: #DEFDE0;
+}
+
+.col-centered{
+    float: none;
+}
