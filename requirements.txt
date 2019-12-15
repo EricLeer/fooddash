@@ -1,0 +1,4 @@
+requests
+django
+beautifulsoup4
+lxml
